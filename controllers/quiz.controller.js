@@ -5,7 +5,7 @@ const Question = require("../models/question.model");
 const getQuestionsOfCategory = async (req, res) => {
   try {
     const { category } = req.params;
-    const questions = Question.find({ category });
+    const questions = await Question.find({ category });
     res.status(200).json({ success: true, questions });
   } catch (err) {
     res.status(400).json({
@@ -46,7 +46,6 @@ const insertData = async (req, res) => {
     const insertedData = await Question.insertMany(questions);
     res.status(201).json({ success: true, message: "Questions stored in DB" });
   } catch (err) {
-    console.log(err);
     res.status(400).json({
       success: false,
       message: "Failed to store questions",
