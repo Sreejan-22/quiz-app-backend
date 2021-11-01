@@ -13,3 +13,7 @@ const getQuestionsOfCategory = async (req, res) => {
     });
   }
 };
+
+module.exports = {
+  getQuestionsOfCategory,
+};
