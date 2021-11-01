@@ -4,6 +4,4 @@ function validatePassword(value) {
   );
 }
 
-module.exports = {
-  validatePassword,
-};
+module.exports = validatePassword;
