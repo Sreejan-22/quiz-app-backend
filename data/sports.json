@@ -1,0 +1,85 @@
+{
+  "questions": [
+    {
+      "category": "sports",
+      "question": "Tennis was once known as Racquetball.",
+      "answers": ["False", "True"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "sports",
+      "question": "Which male player won the gold medal of table tennis singles in 2016 Olympics Games?",
+      "answers": [
+        "Zhang Jike (China)",
+        "Jun Mizutani (Japan)",
+        "Ma Long (China)",
+        "Vladimir Samsonov (Belarus)"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "category": "sports",
+      "question": "In Baseball, how many times does the ball have to be pitched outside of the strike zone before the batter is walked?",
+      "answers": ["1", "2", "3", "4"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "category": "sports",
+      "question": "What team won the 2016 MLS Cup?",
+      "answers": [
+        "Colorado Rapids",
+        "Seattle Sounders",
+        "Toronto FC",
+        "Montreal Impact"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "category": "sports",
+
+      "question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+      "answers": ["French Open", "US Open", "Wimbledon", "Australian Open"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "category": "sports",
+      "question": "Who won the 'Champions League' in 1999?",
+      "answers": [
+        "Manchester United",
+        "Barcelona",
+        "Bayern Munich",
+        "Liverpool"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "sports",
+      "question": "Which professional wrestler fell from the rafters to his death during a live Pay-Per-View event in 1999?",
+      "answers": ["Chris Benoit", "Lex Luger", "Al Snow", "Owen Hart"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "category": "sports",
+      "question": "What country hosted the 2014 Winter Olympics?",
+      "answers": ["Canada", "Russia", "United States", "Germany"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "category": "sports",
+      "question": "Which basketball team has attended the most NBA grand finals?",
+      "answers": [
+        "Boston Celtics",
+        "Philadelphia 76ers",
+        "Golden State Warriors",
+        "Los Angeles Lakers"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "category": "sports",
+      "question": "In Canadian football, scoring a rouge is worth how many points?",
+      "answers": ["1", "2", "3", "4"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}

@@ -11,7 +11,7 @@ const questionModel = new Schema({
     type: String,
     required: true,
   },
-  answer: {
+  answers: {
     type: [String],
     required: true,
   },
