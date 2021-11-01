@@ -15,6 +15,10 @@ const questionModel = new Schema({
     type: [String],
     required: true,
   },
+  correctAnswerIndex: {
+    type: Number,
+    required: true,
+  },
 });
 
 const Question = mongoose.model("question", questionModel);
