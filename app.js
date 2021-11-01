@@ -3,6 +3,9 @@ const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
 
+const authRoutes = require("./routes/auth.route");
+const quizRoutes = require("./routes/quiz.route");
+
 const app = express();
 
 app.use(express.json());
@@ -38,6 +41,8 @@ mongoose
   .catch((err) => console.log(err));
 
 // routes
+app.use(authRoutes);
+app.use(quizRoutes);
 
 // 404
 app.use("/", (req, res) => {
