@@ -7,7 +7,7 @@ const { checkAuthentication } = require("../middlewares/auth.middleware");
 
 const router = Router();
 
-router.get("/results", checkAuthentication, getAllResultsOfUser);
+router.get("/results/:email", checkAuthentication, getAllResultsOfUser);
 router.post("/results", checkAuthentication, saveResult);
 
 module.exports = router;
