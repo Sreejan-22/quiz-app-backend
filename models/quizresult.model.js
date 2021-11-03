@@ -3,6 +3,10 @@ const Schema = mongoose.Schema;
 
 const quizResultSchema = new Schema(
   {
+    email: {
+      type: String,
+      required: true,
+    },
     category: {
       type: String,
       required: true,
