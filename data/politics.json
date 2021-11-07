@@ -1,0 +1,99 @@
+{
+  "questions": [
+    {
+      "category": "politics",
+      "question": "Who was the only president to not be in office in Washington D.C?",
+      "answers": [
+        "Abraham Lincoln",
+        "Richard Nixon",
+        "George Washington",
+        "Thomas Jefferson"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "category": "politics",
+      "question": "Before 2011, &quot;True Capitalist Radio&quot; was known by a different name. What was that name?",
+      "answers": [
+        "True Republican Radio",
+        "True Conservative Radio",
+        "Texan Capitalist Radio",
+        "United Capitalists"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "category": "politics",
+      "question": "The 2014 movie &quot;The Raid 2: Berandal&quot; was mainly filmed in which Asian country?",
+      "answers": ["Indonesia", "Thailand", "Brunei", "Malaysia"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "politics",
+      "question": "Due to the Nagoya Resolution, China agreed to allow Taiwan to compete separately in international sporting events under what name?",
+      "answers": [
+        "Chinese Taiwan",
+        "Republic of Taiwan",
+        "Chinese Taipei",
+        "Republic of Taipei "
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "category": "politics",
+      "question": "&quot;Yes, America Can!&quot; was this United States politician&#039;s de facto campaign slogan in 2004.",
+      "answers": ["John Kerry", "Barack Obama", "Al Gore", "George W. Bush"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "category": "politics",
+      "question": "Which of the following United States Presidents served the shortest term in office?",
+      "answers": [
+        "Zachary Taylor",
+        "James A. Garfield",
+        "Warren G. Harding",
+        "William Henry Harrison"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "category": "politics",
+      "question": "What is the name of Niccol&ograve; Machiavelli&#039;s work that argued effective leaders needed to crush their opponents at all costs?",
+      "answers": [
+        "The Rape of Lucrece",
+        "The Prince",
+        "Will to Power",
+        "Love&#039;s Labours Lost"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "category": "politics",
+      "question": "Who became Prime Minister of the United Kingdom in July 2016?",
+      "answers": [
+        "Boris Johnson",
+        "Theresa May",
+        "David Cameron",
+        "Tony Blair"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "category": "politics",
+      "question": "What are the first names of the first father and son pair that were both Prime Ministers of Canada?",
+      "answers": [
+        "Justin and Pierre",
+        "John and Louis",
+        "Brian and Justin",
+        "Brian and Pierre"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "politics",
+      "question": "The Watergate Scandal occured in what year?",
+      "answers": ["1972", "1973", "1974", "1971"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "category": "history",
+      "question": "Which king was killed at the Battle of Bosworth Field in 1485? ",
+      "answers": ["Richard III", "Edward V", "Henry VII", "James I"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "history",
+      "question": "When did the French Revolution begin?",
+      "answers": ["1823", "1799", "1756", "1789"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "category": "history",
+      "question": "The original Roman alphabet lacked the following letters EXCEPT:",
+      "answers": ["X", "W", "U", "J"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "history",
+      "question": "The creator of the Enigma Cypher and Machine was of what nationality?",
+      "answers": ["American", "German", "British", "Polish"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "category": "history",
+      "question": "When did the Battle of the Bulge end?",
+      "answers": [
+        "August 6, 1945",
+        "December 7, 1941",
+        "December 16, 1944",
+        "January 25, 1945"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "category": "history",
+      "question": "How many sonatas did Ludwig van Beethoven write?",
+      "answers": ["32", "50", "31", "21"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "history",
+      "question": "Who invented the &quot;Flying Shuttle&quot; in 1738; one of the key developments in the industrialization of weaving?",
+      "answers": [
+        "John Kay",
+        "James Hargreaves",
+        "Richard Arkwright",
+        "John Deere"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "history",
+      "question": "What year did Australia become a federation?",
+      "answers": ["1901", "1910", "1899", "1911"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "history",
+      "question": "What year did World War I begin?",
+      "answers": ["1905", "1919", "1914", "1925"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "category": "history",
+      "question": "When did construction of the Suez Canal finish?",
+      "answers": ["1859", "1869", "1860", "1850"],
+      "correctAnswerIndex": 2
+    }
+  ]
+}

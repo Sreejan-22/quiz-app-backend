@@ -2,8 +2,8 @@
   "questions": [
     {
       "category": "sports",
-      "question": "Tennis was once known as Racquetball.",
-      "answers": ["False", "True"],
+      "question": "Which football team won the Copa America 2021 Championship?",
+      "answers": ["Chile", "Argentina", "Brazil", "Uruguay"],
       "correctAnswerIndex": 0
     },
     {
