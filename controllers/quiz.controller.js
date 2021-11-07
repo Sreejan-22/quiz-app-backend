@@ -32,8 +32,6 @@ const insertData = async (req, res) => {
       ...politicsQuestions,
     ];
 
-    console.log(questions);
-
     const insertedData = await Question.insertMany(questions, { limit: 30 });
     res.status(201).json({ success: true, message: "Questions stored in DB" });
   } catch (err) {
