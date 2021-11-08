@@ -16,7 +16,7 @@ const quizResultSchema = new Schema(
       required: true,
     },
   },
-  { createdAt: true }
+  { timestamps: true }
 );
 
 const QuizResult = mongoose.model("quizresult", quizResultSchema);
