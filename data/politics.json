@@ -13,7 +13,7 @@
     },
     {
       "category": "politics",
-      "question": "Before 2011, 'True Capitalist Radio' was known by a different name. What was that name?",
+      "question": "Before 2011, \"True Capitalist Radio\" was known by a different name. What was that name?",
       "answers": [
         "True Republican Radio",
         "True Conservative Radio",
@@ -24,7 +24,7 @@
     },
     {
       "category": "politics",
-      "question": "The 2014 movie 'The Raid 2: Berandal' was mainly filmed in which Asian country?",
+      "question": "The 2014 movie \"The Raid 2: Berandal\" was mainly filmed in which Asian country?",
       "answers": ["Indonesia", "Thailand", "Brunei", "Malaysia"],
       "correctAnswerIndex": 0
     },
@@ -41,7 +41,7 @@
     },
     {
       "category": "politics",
-      "question": "'Yes, America Can!' was this United States politician&#039;s de facto campaign slogan in 2004.",
+      "question": "\"Yes, America Can!\" was this United States politician's de facto campaign slogan in 2004.",
       "answers": ["John Kerry", "Barack Obama", "Al Gore", "George W. Bush"],
       "correctAnswerIndex": 3
     },
@@ -58,7 +58,7 @@
     },
     {
       "category": "politics",
-      "question": "What is the name of Niccol&ograve; Machiavelli&#039;s work that argued effective leaders needed to crush their opponents at all costs?",
+      "question": "What is the name of Niccolò Machiavelli's work that argued effective leaders needed to crush their opponents at all costs?",
       "answers": [
         "The Rape of Lucrece",
         "The Prince",

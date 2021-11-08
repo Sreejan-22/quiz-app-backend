@@ -43,7 +43,7 @@
     },
     {
       "category": "sports",
-      "question": "Who won the 'Champions League' in 1999?",
+      "question": "Who won the \"Champions League\" in 1999?",
       "answers": [
         "Manchester United",
         "Barcelona",
