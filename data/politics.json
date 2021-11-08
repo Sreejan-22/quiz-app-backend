@@ -13,7 +13,7 @@
     },
     {
       "category": "politics",
-      "question": "Before 2011, &quot;True Capitalist Radio&quot; was known by a different name. What was that name?",
+      "question": "Before 2011, 'True Capitalist Radio' was known by a different name. What was that name?",
       "answers": [
         "True Republican Radio",
         "True Conservative Radio",
@@ -24,7 +24,7 @@
     },
     {
       "category": "politics",
-      "question": "The 2014 movie &quot;The Raid 2: Berandal&quot; was mainly filmed in which Asian country?",
+      "question": "The 2014 movie 'The Raid 2: Berandal' was mainly filmed in which Asian country?",
       "answers": ["Indonesia", "Thailand", "Brunei", "Malaysia"],
       "correctAnswerIndex": 0
     },
@@ -41,7 +41,7 @@
     },
     {
       "category": "politics",
-      "question": "&quot;Yes, America Can!&quot; was this United States politician&#039;s de facto campaign slogan in 2004.",
+      "question": "'Yes, America Can!' was this United States politician&#039;s de facto campaign slogan in 2004.",
       "answers": ["John Kerry", "Barack Obama", "Al Gore", "George W. Bush"],
       "correctAnswerIndex": 3
     },
